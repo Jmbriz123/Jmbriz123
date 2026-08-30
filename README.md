@@ -2,7 +2,7 @@
 
 # Hi, I'm Jemarco Briz 👋
 
-### Aspiring Data Engineer | Building AI Data Infrastructure | BS Computer Science @ UP Visayas
+### Aspiring Data Engineer | Data Engineer Intern @Springer Capital | Building AI Data Infrastructure | BS Computer Science @ UP Visayas
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Engineer+Intern+%40+Springer+Capital;Building+AI%2FLLM+Data+Infrastructure;ETL+%2F+ELT+Pipelines+%7C+Airflow+%7C+dbt+%7C+Docker;Obsessed+with+Clean%2C+Reliable+Data" alt="Typing SVG" />
 
