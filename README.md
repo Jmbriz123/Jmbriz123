@@ -18,10 +18,10 @@
 
 Data engineering isn't just what I'm studying — it's what I spend my free time doing. I'm drawn to the problem of turning messy, unreliable data into something a business (or a model) can actually trust, and I get genuinely excited digging into schema design, pipeline orchestration, and data quality checks.
 
-- 🔭 Currently a **Data Engineer Intern at Springer Capital**, building the **AI data infrastructure** that powers an LLM-based system — designing the pipelines that feed and structure data for the model
-- 🌱 Pursuing a **B.S. in Computer Science** at the **University of the Philippines Visayas** — expected July 2028
+- 🔭 Currently a **Data Engineer Intern at Springer Capital**, building the **AI data infrastructure** that powers an AI/LLM system — designing the pipelines that feed and structure data for the AI model
+- 🌱 Pursuing a **B.S. in Computer Science** at the **University of the Philippines Visayas**, strengthening foundations in software engineering and computation fundamentals  — expected graduation July 2028
 - 🛠️ I design **containerized, schema-validated ETL/ELT pipelines** using Python, Airflow, dbt, Docker, and PostgreSQL
-- 🗄️ Deeply interested in **data warehousing**, **medallion architecture (Bronze/Silver/Gold)**, and **scalable, idempotent pipeline design**
+- 🗄️ Deeply interested in **AI Data Infrastructure**, **Data Warehousing**, **medallion architecture (Bronze/Silver/Gold)**, and **scalable, idempotent pipeline design**
 - 🧪 Building a **personal weather-data platform (SILID)** on the side, purely out of curiosity and love for the craft
 - 📫 Reach me at **jemarcobriz123@gmail.com**
 
