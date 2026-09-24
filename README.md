@@ -47,7 +47,7 @@ Working on the **data and AI infrastructure** behind an AI-powered compliance do
 * Added **grounding checks** to prevent unsupported LLM-generated compliance flags from being persisted.
 * Contributed to the architecture and integration of the **Data Engineering and AI pipeline** within a cross-functional team.
 
-**Tech:** `Python` `PostgreSQL` `pgvector` `Celery` `Redis` `Docker` `Sentence Transformers` `RAG` `LLMs`
+**Tech:** `Python` `PostgreSQL` `pgvector` `MinIO` `Celery` `Redis` `Docker` `Sentence Transformers` `RAG` `LLMs`
 
 ---
 
@@ -63,6 +63,25 @@ Working on the **data and AI infrastructure** behind an AI-powered compliance do
 ---
 
 ## 🚀 Featured Data Engineering Projects
+
+### 🤖 AI Compliance Document Review Platform
+
+An AI-powered compliance document review platform built during my internship, designed to analyze uploaded documents using a privacy-preserving **RAG pipeline**.
+
+**My role:** Data Engineer & Team Lead
+
+* Led a cross-functional team of **Data, AI, Backend, and Frontend engineers**, owning data architecture and technical decisions.
+* Designed and built the **end-to-end RAG pipeline**: document ingestion → extraction → PII masking → semantic chunking → embeddings → vector retrieval (Compliance Rules, Missing Disclosure Detection, Precedent Search) → LLM generation → validation → persistence.
+* Built the retrieval layer with **PostgreSQL + pgvector + Sentence Transformers**, supporting compliance-rule retrieval, precedent search, and disclosure-by-absence detection.
+* Implemented **HNSW vector indexing** and semantic similarity search for efficient retrieval.
+* Orchestrated asynchronous processing using **Celery + Redis**, keeping heavy AI workloads separate from the API request lifecycle.
+* Implemented a **privacy-preserving data flow** that masks PII before embeddings and third-party LLM calls while retaining mappings internally.
+* Evaluated retrieval quality using reviewer-labeled data and **precision, recall, and F1** to tune retrieval thresholds.
+* Added **retry logic and safer failure handling** to improve pipeline reliability.
+
+**Tech:** `Python` `PostgreSQL` `pgvector` `Celery` `Redis` `MinIO` `Docker` `FastAPI` `Sentence Transformers` `RAG` `LLMs`
+
+---
 
 ### 📥 Customer Care Email Data Pipeline
 
@@ -89,7 +108,7 @@ A **Medallion Architecture** data warehouse integrating CRM and ERP sources into
 ## 🛠️ Technical Skills 
 
 ### Data & Backend
-`Python` · `SQL` · `PostgreSQL` · `FastAPI` · `Alembic` · `Pandas`
+`Python` · `SQL` · `PostgreSQL` · `FastAPI` · `Alembic` · `MinIO` · `Pandas`
 
 ### Data Engineering
 `Apache Airflow` · `Docker` · `ETL/ELT` · `Data Warehousing`
