@@ -34,7 +34,7 @@ Currently, I'm working as a **Data Engineer Intern at Springer Capital (US)**, c
 
 ### Data Engineer Intern — Springer Capital (US)
 
-**Jun 2026 – Present**
+**Jun 2026 – Sept 2026**
 
 Working on the **data and AI infrastructure** behind an AI-powered compliance document review platform.
 
