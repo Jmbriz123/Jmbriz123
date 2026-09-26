@@ -24,7 +24,8 @@ I'm a **Computer Science student at the University of the Philippines Visayas** 
 
 I enjoy building reliable data systems that sit between raw data and AI applications — from ingestion and validation to transformation, vector retrieval, and LLM processing.
 
-Currently, I'm working as a **Data Engineer Intern at Springer Capital (US)**, contributing to an AI-powered compliance document review platform.
+I worked as a **Data Engineer Intern at Springer Capital (US)**, where I helped build an AI-powered compliance document review platform, designing and implementing the data and RAG infrastructure that enabled the system to process documents, retrieve relevant compliance information, and generate AI-assisted analysis.
+
 
 **Focus areas:** Data Engineering · AI Infrastructure · ETL/ELT · RAG · Data Quality · Pipeline Reliability
 
