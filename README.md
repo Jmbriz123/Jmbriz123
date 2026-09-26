@@ -36,7 +36,7 @@ Currently, I'm working as a **Data Engineer Intern at Springer Capital (US)**, c
 
 **Jun 2026 – Sept 2026**
 
-Working on the **data and AI infrastructure** behind an AI-powered compliance document review platform.
+Worked on the **data and AI infrastructure** behind an AI-powered compliance document review platform.
 
 * Designed an end-to-end document analysis pipeline covering **document ingestion, format-specific extraction, PII detection/masking, semantic chunking, embeddings, vector retrieval, LLM inference, validation, and persistence**.
 * Built the **RAG retrieval layer** using **PostgreSQL + pgvector + Sentence Transformers**, supporting compliance-rule retrieval, precedent search, and disclosure-by-absence detection.
