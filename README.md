@@ -63,7 +63,7 @@ Worked on the **data and AI infrastructure** behind an AI-powered compliance doc
 
 ---
 
-## 🚀 Featured Data Engineering Projects
+## 🚀 Featured AI/Data Engineering Projects
 
 ### 🤖 AI Compliance Document Review Platform
 
