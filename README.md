@@ -34,7 +34,7 @@ I worked as a **Data Engineer Intern at Springer Capital (US)**, where I helped 
 ## 💼 Experience
 ### AI Data Engineer Intern — Acumen Strategy (US)
 
-**Sept 2026 - Present**
+**Oct 2026 - Present**
 
 Building the **data infrastructure** for the organization
 
