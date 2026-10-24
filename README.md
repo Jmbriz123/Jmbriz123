@@ -32,11 +32,11 @@ I worked as a **Data Engineer Intern at Springer Capital (US)**, where I helped 
 ---
 
 ## 💼 Experience
-### Software Engineer Intern (Backend, Data, AI) — Acumen Strategy (US)
+### Data Engineer Intern — Glynac AI (US)
 
 **Oct 2026 - Present**
 
-Building the **data infrastructure** for the organization
+Building a secure **Salesforce data pipeline** with PII masking and resumable CRM data ingestion for AI applications.
 
 ### Data Engineer Intern — Springer Capital (US)
 
